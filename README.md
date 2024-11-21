@@ -28,8 +28,9 @@ Faftech-AI adalah antarmuka web interaktif berbasis HTML, CSS, dan JavaScript ya
 
 1. **Clone Repository**:
    ```bash
-   git clone <URL-repo-Anda>
-   cd <nama-folder-repo>
+   git clone https://github.com/fikriarmiafahmi/faftech-ai.git
+   cd faftech-ai
+   ```
 
 2. **Jalankan di Browser**:
 - Pastikan Anda memiliki server lokal seperti Laragon atau XAMPP.
