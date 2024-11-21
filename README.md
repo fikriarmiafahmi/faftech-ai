@@ -1,5 +1,4 @@
 
-<hr>
 ## UI Chat Bot
 <hr>
 
