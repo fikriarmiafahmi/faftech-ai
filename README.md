@@ -51,9 +51,15 @@ Faftech-AI adalah antarmuka web interaktif berbasis HTML, CSS, dan JavaScript ya
 
 ## Struktur Proyek
 ├── index.html       # Halaman utama
+<br>
 ├── style.css        # Gaya kustom
+<br>
 ├── script.js        # Logika interaktif
+<br>
 ├── prismjs/
+<br>
 │   ├── prism.css    # Gaya penyorotan sintaksis
+<br>
 │   └── prism.js     # Script penyorotan sintaksis
+<br>
 ├── README.md        # Dokumentasi proyek
