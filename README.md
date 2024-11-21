@@ -1,6 +1,4 @@
-
-## UI Chat Bot
-<hr>
+# UI Chat Bot
 
 # Faftech-AI
 
